@@ -26,7 +26,45 @@ conversations:
   - What proportion of the data is mature enough? 
   - Can you propose a solution with the data that is mature enough? 
   - What solutions can you propose at the current data maturity level? 
+- - I need to improve data first
+  - Is the data semi-structured? If so have you tried a pattern recognition or NLP solution? 
+  - Could you implement an ETL easily? 
+  - Can you implement a DS solution without improving maturity? 
+  - What obstacles is the company facing in maturing the data environment? 
+  - Can you analyze the data without maturing it?
+  - Can you protype a solution prior to maturing the data? 
+  - What proportion of the data is mature enough? 
+  - Can you propose a solution with the data that is mature enough? 
+  - What solutions can you propose at the current data maturity level? 
+- - There isnt a way to get the data
+  - Is the data semi-structured? If so have you tried a pattern recognition or NLP solution? 
+  - Could you implement an ETL easily? 
+  - Can you implement a DS solution without improving maturity? 
+  - What obstacles is the company facing in maturing the data environment? 
+  - Can you analyze the data without maturing it?
+  - Can you protype a solution prior to maturing the data? 
+  - What proportion of the data is mature enough? 
+  - Can you propose a solution with the data that is mature enough? 
+  - What solutions can you propose at the current data maturity level? 
 - - The solution must use this tool.
+  - Are there tools that offer more benefits? 
+  - What is the opportunity cost of moving to a new tool? 
+  - Waht is the actual cost of moving to a new tool? 
+  - What are some limitations of the current tool? 
+  - What are some limitations of competitor tools? 
+  - Could the solution be deployed without this tool? 
+  - Could there be future problems in deploying or productionizing with this tool? 
+  - What are the benefits of the current tool? 
+- - The solution must use this python rust r informatica 
+  - Are there tools that offer more benefits? 
+  - What is the opportunity cost of moving to a new tool? 
+  - Waht is the actual cost of moving to a new tool? 
+  - What are some limitations of the current tool? 
+  - What are some limitations of competitor tools? 
+  - Could the solution be deployed without this tool? 
+  - Could there be future problems in deploying or productionizing with this tool? 
+  - What are the benefits of the current tool? 
+- - python informatica powerbi power bi tableau wont work
   - Are there tools that offer more benefits? 
   - What is the opportunity cost of moving to a new tool? 
   - Waht is the actual cost of moving to a new tool? 
