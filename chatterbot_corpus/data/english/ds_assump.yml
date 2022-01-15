@@ -3,11 +3,324 @@ categories:
 - Data Engineering
 - Data Analytics
 conversations:
-- - Good morning, how are you?
-  - I am doing well, how about you?
-  - I'm also good.
-  - That's good to hear.
-  - Yes it is.
+- - OK ok
+  - There is no way to implement.
+  - Are there other tools? 
+  - Do you understand all of the techniques of the current tool? 
+  - Are there other resources who might know a way? 
+  - Are there other ways around the obsticle? 
+  - Can you complete the project without this milestone? 
+  - Is there a different business problem that feeds into the one your solving? 
+  - Are there limitations to your access causing this issue? 
+  - The data is not mature enough. 
+  - Is the data semi-structured? If so have you tried a pattern recognition or NLP solution? 
+  - Could you implement an ETL easily? 
+  - Can you implement a DS solution without improving maturity? 
+  - What obstacles is the company facing in maturing the data environment? 
+  - Can you analyze the data without maturing it?
+  - Can you protype a solution prior to maturing the data? 
+  - What proportion of the data is mature enough? 
+  - Can you propose a solution with the data that is mature enough? 
+  - What solutions can you propose at the current data maturity level? 
+  - I need to improve data first
+  - Is the data semi-structured? If so have you tried a pattern recognition or NLP solution? 
+  - Could you implement an ETL easily? 
+  - Can you implement a DS solution without improving maturity? 
+  - What obstacles is the company facing in maturing the data environment? 
+  - Can you analyze the data without maturing it?
+  - Can you protype a solution prior to maturing the data? 
+  - What proportion of the data is mature enough? 
+  - Can you propose a solution with the data that is mature enough? 
+  - What solutions can you propose at the current data maturity level? 
+  - There isnt a way to get the data
+  - Is the data semi-structured? If so have you tried a pattern recognition or NLP solution? 
+  - Could you implement an ETL easily? 
+  - Can you implement a DS solution without improving maturity? 
+  - What obstacles is the company facing in maturing the data environment? 
+  - Can you analyze the data without maturing it?
+  - Can you protype a solution prior to maturing the data? 
+  - What proportion of the data is mature enough? 
+  - Can you propose a solution with the data that is mature enough? 
+  - What solutions can you propose at the current data maturity level? 
+  - The solution must use this tool.
+  - Are there tools that offer more benefits? 
+  - What is the opportunity cost of moving to a new tool? 
+  - Waht is the actual cost of moving to a new tool? 
+  - What are some limitations of the current tool? 
+  - What are some limitations of competitor tools? 
+  - Could the solution be deployed without this tool? 
+  - Could there be future problems in deploying or productionizing with this tool? 
+  - What are the benefits of the current tool? 
+  - The solution must use this python rust r informatica 
+  - Are there tools that offer more benefits? 
+  - What is the opportunity cost of moving to a new tool? 
+  - Waht is the actual cost of moving to a new tool? 
+  - What are some limitations of the current tool? 
+  - What are some limitations of competitor tools? 
+  - Could the solution be deployed without this tool? 
+  - Could there be future problems in deploying or productionizing with this tool? 
+  - What are the benefits of the current tool? 
+  - python informatica powerbi power bi tableau wont work
+  - Are there tools that offer more benefits? 
+  - What is the opportunity cost of moving to a new tool? 
+  - Waht is the actual cost of moving to a new tool? 
+  - What are some limitations of the current tool? 
+  - What are some limitations of competitor tools? 
+  - Could the solution be deployed without this tool? 
+  - Could there be future problems in deploying or productionizing with this tool? 
+  - What are the benefits of the current tool? 
+  - The solution is ready for deploying
+  - Has the solution been tested by developers? 
+  - Has the tool been tested by end users? 
+  - Have unit tests been run? 
+  - Have all requirements been met? 
+  - Has the deployment environment been established? 
+  - Has the solution been tested in the deployment environment? 
+  - Has the solution been approved by main stakeholders? 
+  - Does the solution have maintenance plans?
+  - Have contigencies been designed and developed for deployment failure? 
+  - Has the update of the solution been considered post deployment? 
+  - Are there other deployment environment to consider? 
+  - What are the benefits of the current deployment solution? 
+  - what are the benefits of a different deployment solution? 
+  - What are the limiations of the current deployment environment? 
+  - What are the limiations of other deployment environments? 
+  - Using a machine learning predictive model will solve the business problem? 
+  - Are there statistical models that will better find corralations? 
+  - Is the problem process related? 
+  - Have process and people related aspects of the problem been identified as well? 
+  - Is the data mature enough for a productionized machine learning solution? 
+  - There are no business problems that require data science solutions? 
+  - Is there a subset of data that is semi-structured or unstructured?
+  - Does that data need to be classified?
+  - Would predicting a key metric help with decision making or mitigate potential issues? 
+  - Would clustering data improve visibility? 
+  - Is data in a non-relational format? Could it become relational? 
+  - Would data maturity improve visibility and decision making? 
+- - There is no way to implement.
+  - Are there other tools? 
+  - Do you understand all of the techniques of the current tool? 
+  - Are there other resources who might know a way? 
+  - Are there other ways around the obsticle? 
+  - Can you complete the project without this milestone? 
+  - Is there a different business problem that feeds into the one your solving? 
+  - Are there limitations to your access causing this issue? 
+- - The data is not mature enough. 
+  - Is the data semi-structured? If so have you tried a pattern recognition or NLP solution? 
+  - Could you implement an ETL easily? 
+  - Can you implement a DS solution without improving maturity? 
+  - What obstacles is the company facing in maturing the data environment? 
+  - Can you analyze the data without maturing it?
+  - Can you protype a solution prior to maturing the data? 
+  - What proportion of the data is mature enough? 
+  - Can you propose a solution with the data that is mature enough? 
+  - What solutions can you propose at the current data maturity level? 
+- - More
+  - There is no way to implement.
+  - Are there other tools? 
+  - Do you understand all of the techniques of the current tool? 
+  - Are there other resources who might know a way? 
+  - Are there other ways around the obsticle? 
+  - Can you complete the project without this milestone? 
+  - Is there a different business problem that feeds into the one your solving? 
+  - Are there limitations to your access causing this issue? 
+  - The data is not mature enough. 
+  - Is the data semi-structured? If so have you tried a pattern recognition or NLP solution? 
+  - Could you implement an ETL easily? 
+  - Can you implement a DS solution without improving maturity? 
+  - What obstacles is the company facing in maturing the data environment? 
+  - Can you analyze the data without maturing it?
+  - Can you protype a solution prior to maturing the data? 
+  - What proportion of the data is mature enough? 
+  - Can you propose a solution with the data that is mature enough? 
+  - What solutions can you propose at the current data maturity level? 
+  - I need to improve data first
+  - Is the data semi-structured? If so have you tried a pattern recognition or NLP solution? 
+  - Could you implement an ETL easily? 
+  - Can you implement a DS solution without improving maturity? 
+  - What obstacles is the company facing in maturing the data environment? 
+  - Can you analyze the data without maturing it?
+  - Can you protype a solution prior to maturing the data? 
+  - What proportion of the data is mature enough? 
+  - Can you propose a solution with the data that is mature enough? 
+  - What solutions can you propose at the current data maturity level? 
+  - There isnt a way to get the data
+  - Is the data semi-structured? If so have you tried a pattern recognition or NLP solution? 
+  - Could you implement an ETL easily? 
+  - Can you implement a DS solution without improving maturity? 
+  - What obstacles is the company facing in maturing the data environment? 
+  - Can you analyze the data without maturing it?
+  - Can you protype a solution prior to maturing the data? 
+  - What proportion of the data is mature enough? 
+  - Can you propose a solution with the data that is mature enough? 
+  - What solutions can you propose at the current data maturity level? 
+  - The solution must use this tool.
+  - Are there tools that offer more benefits? 
+  - What is the opportunity cost of moving to a new tool? 
+  - Waht is the actual cost of moving to a new tool? 
+  - What are some limitations of the current tool? 
+  - What are some limitations of competitor tools? 
+  - Could the solution be deployed without this tool? 
+  - Could there be future problems in deploying or productionizing with this tool? 
+  - What are the benefits of the current tool? 
+  - The solution must use this python rust r informatica 
+  - Are there tools that offer more benefits? 
+  - What is the opportunity cost of moving to a new tool? 
+  - Waht is the actual cost of moving to a new tool? 
+  - What are some limitations of the current tool? 
+  - What are some limitations of competitor tools? 
+  - Could the solution be deployed without this tool? 
+  - Could there be future problems in deploying or productionizing with this tool? 
+  - What are the benefits of the current tool? 
+  - python informatica powerbi power bi tableau wont work
+  - Are there tools that offer more benefits? 
+  - What is the opportunity cost of moving to a new tool? 
+  - Waht is the actual cost of moving to a new tool? 
+  - What are some limitations of the current tool? 
+  - What are some limitations of competitor tools? 
+  - Could the solution be deployed without this tool? 
+  - Could there be future problems in deploying or productionizing with this tool? 
+  - What are the benefits of the current tool? 
+  - The solution is ready for deploying
+  - Has the solution been tested by developers? 
+  - Has the tool been tested by end users? 
+  - Have unit tests been run? 
+  - Have all requirements been met? 
+  - Has the deployment environment been established? 
+  - Has the solution been tested in the deployment environment? 
+  - Has the solution been approved by main stakeholders? 
+  - Does the solution have maintenance plans?
+  - Have contigencies been designed and developed for deployment failure? 
+  - Has the update of the solution been considered post deployment? 
+  - Are there other deployment environment to consider? 
+  - What are the benefits of the current deployment solution? 
+  - what are the benefits of a different deployment solution? 
+  - What are the limiations of the current deployment environment? 
+  - What are the limiations of other deployment environments? 
+  - Using a machine learning predictive model will solve the business problem? 
+  - Are there statistical models that will better find corralations? 
+  - Is the problem process related? 
+  - Have process and people related aspects of the problem been identified as well? 
+  - Is the data mature enough for a productionized machine learning solution? 
+  - There are no business problems that require data science solutions? 
+  - Is there a subset of data that is semi-structured or unstructured?
+  - Does that data need to be classified?
+  - Would predicting a key metric help with decision making or mitigate potential issues? 
+  - Would clustering data improve visibility? 
+  - Is data in a non-relational format? Could it become relational? 
+  - Would data maturity improve visibility and decision making? 
+- - There is no way to implement.
+  - Are there other tools? 
+  - Do you understand all of the techniques of the current tool? 
+  - Are there other resources who might know a way? 
+  - Are there other ways around the obsticle? 
+  - Can you complete the project without this milestone? 
+  - Is there a different business problem that feeds into the one your solving? 
+  - Are there limitations to your access causing this issue? 
+- - The data is not mature enough. 
+  - Is the data semi-structured? If so have you tried a pattern recognition or NLP solution? 
+  - Could you implement an ETL easily? 
+  - Can you implement a DS solution without improving maturity? 
+  - What obstacles is the company facing in maturing the data environment? 
+  - Can you analyze the data without maturing it?
+  - Can you protype a solution prior to maturing the data? 
+  - What proportion of the data is mature enough? 
+  - Can you propose a solution with the data that is mature enough? 
+  - What solutions can you propose at the current data maturity level? 
+- - Yes
+  - There is no way to implement.
+  - Are there other tools? 
+  - Do you understand all of the techniques of the current tool? 
+  - Are there other resources who might know a way? 
+  - Are there other ways around the obsticle? 
+  - Can you complete the project without this milestone? 
+  - Is there a different business problem that feeds into the one your solving? 
+  - Are there limitations to your access causing this issue? 
+  - The data is not mature enough. 
+  - Is the data semi-structured? If so have you tried a pattern recognition or NLP solution? 
+  - Could you implement an ETL easily? 
+  - Can you implement a DS solution without improving maturity? 
+  - What obstacles is the company facing in maturing the data environment? 
+  - Can you analyze the data without maturing it?
+  - Can you protype a solution prior to maturing the data? 
+  - What proportion of the data is mature enough? 
+  - Can you propose a solution with the data that is mature enough? 
+  - What solutions can you propose at the current data maturity level? 
+  - I need to improve data first
+  - Is the data semi-structured? If so have you tried a pattern recognition or NLP solution? 
+  - Could you implement an ETL easily? 
+  - Can you implement a DS solution without improving maturity? 
+  - What obstacles is the company facing in maturing the data environment? 
+  - Can you analyze the data without maturing it?
+  - Can you protype a solution prior to maturing the data? 
+  - What proportion of the data is mature enough? 
+  - Can you propose a solution with the data that is mature enough? 
+  - What solutions can you propose at the current data maturity level? 
+  - There isnt a way to get the data
+  - Is the data semi-structured? If so have you tried a pattern recognition or NLP solution? 
+  - Could you implement an ETL easily? 
+  - Can you implement a DS solution without improving maturity? 
+  - What obstacles is the company facing in maturing the data environment? 
+  - Can you analyze the data without maturing it?
+  - Can you protype a solution prior to maturing the data? 
+  - What proportion of the data is mature enough? 
+  - Can you propose a solution with the data that is mature enough? 
+  - What solutions can you propose at the current data maturity level? 
+  - The solution must use this tool.
+  - Are there tools that offer more benefits? 
+  - What is the opportunity cost of moving to a new tool? 
+  - Waht is the actual cost of moving to a new tool? 
+  - What are some limitations of the current tool? 
+  - What are some limitations of competitor tools? 
+  - Could the solution be deployed without this tool? 
+  - Could there be future problems in deploying or productionizing with this tool? 
+  - What are the benefits of the current tool? 
+  - The solution must use this python rust r informatica 
+  - Are there tools that offer more benefits? 
+  - What is the opportunity cost of moving to a new tool? 
+  - Waht is the actual cost of moving to a new tool? 
+  - What are some limitations of the current tool? 
+  - What are some limitations of competitor tools? 
+  - Could the solution be deployed without this tool? 
+  - Could there be future problems in deploying or productionizing with this tool? 
+  - What are the benefits of the current tool? 
+  - python informatica powerbi power bi tableau wont work
+  - Are there tools that offer more benefits? 
+  - What is the opportunity cost of moving to a new tool? 
+  - Waht is the actual cost of moving to a new tool? 
+  - What are some limitations of the current tool? 
+  - What are some limitations of competitor tools? 
+  - Could the solution be deployed without this tool? 
+  - Could there be future problems in deploying or productionizing with this tool? 
+  - What are the benefits of the current tool? 
+  - The solution is ready for deploying
+  - Has the solution been tested by developers? 
+  - Has the tool been tested by end users? 
+  - Have unit tests been run? 
+  - Have all requirements been met? 
+  - Has the deployment environment been established? 
+  - Has the solution been tested in the deployment environment? 
+  - Has the solution been approved by main stakeholders? 
+  - Does the solution have maintenance plans?
+  - Have contigencies been designed and developed for deployment failure? 
+  - Has the update of the solution been considered post deployment? 
+  - Are there other deployment environment to consider? 
+  - What are the benefits of the current deployment solution? 
+  - what are the benefits of a different deployment solution? 
+  - What are the limiations of the current deployment environment? 
+  - What are the limiations of other deployment environments? 
+  - Using a machine learning predictive model will solve the business problem? 
+  - Are there statistical models that will better find corralations? 
+  - Is the problem process related? 
+  - Have process and people related aspects of the problem been identified as well? 
+  - Is the data mature enough for a productionized machine learning solution? 
+  - There are no business problems that require data science solutions? 
+  - Is there a subset of data that is semi-structured or unstructured?
+  - Does that data need to be classified?
+  - Would predicting a key metric help with decision making or mitigate potential issues? 
+  - Would clustering data improve visibility? 
+  - Is data in a non-relational format? Could it become relational? 
+  - Would data maturity improve visibility and decision making? 
 - - There is no way to implement.
   - Are there other tools? 
   - Do you understand all of the techniques of the current tool? 
